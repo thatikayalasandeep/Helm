@@ -1,0 +1,6 @@
+deployment:
+  replicas: 3
+  image: tharakthatikayala/deployment:1.0.0 
+
+service:
+  nodePort: 30007

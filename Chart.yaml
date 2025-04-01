@@ -1,0 +1,5 @@
+apiVersion: v2
+name: nginx-helm
+version: 1.0.0 #CHart version
+description: This is nginx deployment
+appVersion: 1.2.0 #gninx app version
