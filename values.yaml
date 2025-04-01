@@ -1,6 +1,6 @@
 deployment:
   replicas: 3
-  image: tharakthatikayala/deployment:1.0.0 
+  image: nginx:stable-perl
 
 service:
   nodePort: 30007
